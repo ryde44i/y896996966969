@@ -1,0 +1,21 @@
+body{
+    background-image: url(Cfmer.jpeg);
+}
+h1{
+    color: rgb(153, 255, 0);
+}
+p{
+    color: rgb(255, 153, 0);
+}
+h2{
+    color: rgb(255, 0, 0);
+}
+a:hover{
+  text-decoration:none;
+  display: inline-block;
+  width: 30%;
+  font-size: 20px;
+  margin-top: 20px;
+  transition: 0.5s;
+
+}
